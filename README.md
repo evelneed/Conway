@@ -1,2 +1,2 @@
-# Conway
-Interactive GUI to model Conway's Game of Life, a single-player cellular automaton
+# Conway's Game of Life
+Interactive, multi-threaded GUI to model Conway's Game of Life, a single-player cellular automaton. This project was made by a team of three for our CP222: Computer Science 2 class. It is run from the 'main' and the user can use the buttons to adjust the speed, change the starting state of the board, reset, pause, etc. The user can also "draw" onto the grid by pressing and dragging their mouse and the cells who states they wish to change. 
