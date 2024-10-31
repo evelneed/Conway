@@ -40,14 +40,6 @@ public class GUI extends JFrame implements ActionListener {
     private Color otherBorderColor = Color.WHITE;
 
 
-//
-//    public static void main(String[] args) {
-//
-//        defaultBoardV2 test = new defaultBoardV2();
-//        GUI gui = new GUI(test);
-//        gui.setVisible(true);
-//    }
-
     /**
      * Updates the CellPanels color and state depending on its corresponding cell in this.board
      */
