@@ -1,0 +1,16 @@
+Live Cell:
+< 2 neighbors d
+> 3 neighbors d
+break
+
+Dead Cell:
+= 3 neighbors l
+break
+
+
+Creating rules: The format above must be followed when creating new rules
+Start with an operator (<,>,=)
+Next a number
+"neighbors"
+"d" or "l" dead or live
+Each Segment of Dead/Live rules must end with a line that says "break"
